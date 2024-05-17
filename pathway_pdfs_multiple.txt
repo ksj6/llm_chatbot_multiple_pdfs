@@ -1,0 +1,3 @@
+Here , will be the multiple pdfs that are going to be shared for the same content and then we will see that how the work flow
+goes and how will be able to merge and then intergrate all the pdfs and then make the chatbot such that we can ask the particular querstiona 
+and then receive the results and the answers which will help the cutomer in the customer service.
